@@ -2,7 +2,7 @@
 <code>
 <script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="jquery.compressupload.js"></script>
-</code>
+</code>  
 # 2、引入dom
 <code>
 <img src="" id="prev" style="height:120px;">
@@ -15,7 +15,7 @@
 function onpickup(e){
     console.log("onpickup",e)
     $("#prev").attr("src",e.target.result)
-}
+}  
 $(function(){
      
         $("#filedom").compressandupload({
@@ -29,10 +29,10 @@ $(function(){
                console.log("result",result)
              })
 
-    })
-</script>
-</code>
-参数说明
+    })  
+</script>  
+</code>  
+# 4、参数说明
 
  * maxWidth:int,压缩后图片的最大宽度,默认400
  * maxHeight:int,压缩后图片的最大高度,默认400
