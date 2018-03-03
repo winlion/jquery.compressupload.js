@@ -47,5 +47,3 @@ $(function(){
  * base64key:string,后端接收base64文件编码参数的名字,默认为base64data
  * 
  * @result:该函数封装了jquery 的promis 对象,因此采用then的方式,无返回
-
-
