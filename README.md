@@ -1,8 +1,8 @@
 # 1、引入js
 <code>
-<script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
-<script src="jquery.compressupload.js"></script>
-</code>  
+&lt;script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"&gt;&lt;/script&gt;
+&lt;script src="jquery.compressupload.js"&gt;&lt;/script&gt;
+</code> 
 # 2、引入dom
 <code>
 <img src="" id="prev" style="height:120px;">
