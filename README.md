@@ -1,4 +1,5 @@
 demo:
+<code>
 <!doctype html>
 <html>
 <head>
@@ -54,3 +55,4 @@ $(function(){
  * @result:该函数封装了jquery 的promis 对象,因此采用then的方式,无返回
  * 
  **/
+ </code>
