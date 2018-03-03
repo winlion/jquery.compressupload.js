@@ -10,8 +10,8 @@
 <input type="hidden" value="" id="fileurl" name="fileurl" />
 </code>    
 # 3、书写逻辑
-<code>
-<script>
+<code>  
+<script>  
 function onpickup(e){
     console.log("onpickup",e)
     $("#prev").attr("src",e.target.result)
