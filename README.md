@@ -1,15 +1,15 @@
-#1 引入js
+# 1、引入js
 <code>
 <script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="jquery.compressupload.js"></script>
 </code>
-#2 引入dom
+# 2、引入dom
 <code>
 <img src="" id="prev" style="height:120px;">
 <input type="file" name="file" id="filedom" />
 <input type="hidden" value="" id="fileurl" name="fileurl" />
 </code>    
-#3 书写逻辑
+# 3、书写逻辑
 <code>
 <script>
 function onpickup(e){
