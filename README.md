@@ -1,4 +1,5 @@
 demo:
+```
 <!doctype html>
 <html>
 <head>
@@ -36,7 +37,8 @@ $(function(){
 
     })
 </script>
-
+```
+```
 参数说明
 /*
  * maxWidth:int,压缩后图片的最大宽度,默认400
@@ -54,3 +56,4 @@ $(function(){
  * @result:该函数封装了jquery 的promis 对象,因此采用then的方式,无返回
  * 
  **/
+ ```
